@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv>
+<channel id="Cuatro.TV">
+<display-name>Cuatro.TV</display-name>
+</channel>
+
+<programme channel="Cuatro.TV" start="20240116054900 +0000" stop="20240116055700 +0000">
+<title>¡Toma Salami!</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>13/01/2004</date><!-- -->
+<category>Entretenimiento</category>
+<language>Español</language><!-- -->
+<length units="minutes">50</length><!-- -->
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url><!-- -->
+<country>España</country><!-- -->
+<!--episodio -->
+</programme>
+
+<programme channel="Cuatro.TV" start="20240116060000 +0000" stop="20240116060500 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 27</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>16/02/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+<episode-num>27</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240116060500 +0000" stop="20240116062000 +0000">
+<title>¡Toma Salami!: Episodio 32</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>28/02/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+<episode-num>32</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240116143000 +0000" stop="20240116170000 +0000">
+<title>Todo es mentira: Episodio 341</title>
+<desc>Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+<date>4/03/2006</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">1</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/todo-es-mentira/</url>
+<country>España</country>
+<episode-num>341</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240116200500 +0000" stop="20240116204000 +0000">
+<title>First dates: Episodio 193</title>
+<desc>Arranca la nueva temporada de ''First Dates'', en la que la ilusión de los solteros por encontrar pareja, la diversidad y la buena vibra son los principales ingredientes en el menú del amor.</desc>
+<date>17/03/2015</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+<episode-num>193</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240116204000 +0000" stop="20240116215000 +0000">
+<title>First dates: Episodio 98</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<date>14/01/2015</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<orig-language>Español</orig-language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+<episode-num>98</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117055000 +0000" stop="20240117055500 +0000">
+<title>¡Toma Salami!</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>13/01/2005</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117060000 +0000" stop="20240117060500 +0000">
+<title>¡Toma Salami!: La tv que nos parió: Episodio 28</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>30/01/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+<episode-num>28</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117060500 +0000" stop="20240117062000 +0000">
+<title>¡Toma Salami!: Episodio 33</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>16/05/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+<episode-num>33</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117143000 +0000" stop="20240117170000 +0000">
+<title>Todo es mentira: Episodio 342</title>
+<desc>Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+<date>7/03/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">1</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/todo-es-mentira/</url>
+<country>España</country>
+<episode-num>342</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117201000 +0000" stop="20240117204000 +0000">
+<title>First dates: Episodio 195</title>
+<desc>Arranca la nueva temporada de ''First Dates'', en la que la ilusión de los solteros por encontrar pareja, la diversidad y la buena vibra son los principales ingredientes en el menú del amor.</desc>
+<date>10/03/2015</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+<episode-num>195</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240117204000 +0000" stop="20240117215000 +0000">
+<title>First dates: Episodio 99</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<date>9/01/2016</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+<episode-num>99</episode-num>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240118055000 +0000" stop="20240118062500 +0000">
+<title>¡Toma Salami!</title>
+<desc>Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.</desc>
+<date>17/01/2004</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="minutes">50</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/toma-salami/</url>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240118143000 +0000" stop="20240118170000 +0000">
+<title>Todo es mentira</title>
+<desc>Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.</desc>
+<date>11/04/2005</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">1</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.mitele.es/programas-tv/todo-es-mentira/</url>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240118200500 +0000" stop="20240118204000 +0000">
+<title>First dates</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejerce de singular maître de este local, e interviene en caso de que sus clientes necesiten una ayuda extra durante la cita para conseguir el éxito entre la pareja.</desc>
+<date>5/07/2016</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+</programme>
+
+<programme channel="Cuatro.TV" start="20240118204000 +0000" stop="20240118215000 +0000">
+<title>First dates</title>
+<desc>Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+<date>5/07/2015</date>
+<category>Entretenimiento</category>
+<language>Español</language>
+<length units="hours">2</length>
+<icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Logotipo_de_Cuatro.svg/1280px-Logotipo_de_Cuatro.svg.png"/>
+<url>https://www.cuatro.com/firstdates/alacarta/</url>
+<country>España</country>
+</programme>
+
+</tv>
